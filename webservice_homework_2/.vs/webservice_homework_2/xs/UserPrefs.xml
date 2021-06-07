@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9DC61545-29DC-4CF5-98B2-2DF0DB291564}|Default">
+  <MonoDevelop.Ide.ItemProperties.webservice__homework__2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="webservice_homework_2/Controllers/DateController.cs">
+    <Files>
+      <File FileName="webservice_homework_2/Controllers/WeatherForecastController.cs" />
+      <File FileName="webservice_homework_2/Controllers/DateController.cs" Line="17" Column="10" />
+      <File FileName="webservice_homework_2/WeatherForecast.cs" Line="5" Column="18" />
+      <File FileName="webservice_homework_2/Models/DateModel.cs" Line="4" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="webservice_homework_2" expanded="True">
+            <Node name="webservice_homework_2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DateController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
