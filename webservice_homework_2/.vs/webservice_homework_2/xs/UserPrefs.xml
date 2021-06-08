@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{9DC61545-29DC-4CF5-98B2-2DF0DB291564}|Default">
   <MonoDevelop.Ide.ItemProperties.webservice__homework__2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="webservice_homework_2/Controllers/MimifierController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
       <File FileName="webservice_homework_2/Controllers/DateController.cs" Line="28" Column="56" />
       <File FileName="webservice_homework_2/Models/DateModel.cs" />
-      <File FileName="webservice_homework_2/Controllers/MimifierController.cs" Line="1" Column="1" />
+      <File FileName="webservice_homework_2/Controllers/MimifierController.cs" Line="18" Column="1" />
+      <File FileName="README.md" Line="1" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="webservice_homework_2" expanded="True">
+          <Node name="webservice_homework_2" expanded="True" selected="True">
             <Node name="webservice_homework_2" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="MimifierController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
             </Node>
